@@ -26,3 +26,7 @@ right click on file -> Properties -> check "unblock" -> Apply -> Open file again
 -Dashboard showing Top 10 coins by Liquidity(24h Volume)
 -Investor sentiment filter(Vowels , B ,C ,D)
 -VBA security features (charts visible only 9AM -5PM)
+
+#Dashboard Preview
+Dashboard(Dashboard1.png)
+Dashboard(Dashboard2.png)
